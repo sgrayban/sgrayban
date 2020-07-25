@@ -1,4 +1,4 @@
-### Hi there I'm Scott Grayban 👋
+### Hi there I'm Scott Grayban, AKA שאול בן ישוע 👋
 
 - 🔭 I’m currently working on many different projects for Home Automation
 - 🌱 I’m currently learning TypeScript and Feather
