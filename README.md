@@ -7,6 +7,7 @@
 - 💬 Ask me about Groovy and Home Automation
 - 📫 How to reach me: Here
 - ⚡ Fun fact: I hate the heat and humidity
+- 💬 You can leave me a message via [GitHub Discussion](https://github.com/sgrayban/sgrayban/discussions/categories/guestbook)
 
 <br />
 
